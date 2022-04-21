@@ -10,8 +10,7 @@ I am very interested in programming logic and am studying to be a Backend develo
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bbigelli/)](https://www.linkedin.com/in/brunobigelli/)
-[![Whatsapp Badge]<a href="whatsapp://send?text=TITULO &ndash; LINK" title="Acesse de seu smartphone para enviar por WhatsApp">WhatsApp</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bbigelli/)](https://www.linkedin.com/in/brunobigelli/)     <a href="https://wa.me/5511952302900" alt="WhatsApp" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/></a>
 
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=bbigelli&show_icons=true&theme=dracula&include_all_commits=false&count_private=true%22/%3E"><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbigelli&layout=compact&langs_count=7&theme=dracula%22/%3E">
 
