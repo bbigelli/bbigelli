@@ -11,6 +11,7 @@ I am very interested in programming logic and am studying to be a Backend develo
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bbigelli/)](https://www.linkedin.com/in/brunobigelli/)
+[![Whatsapp Badge]<a href="whatsapp://send?text=TITULO &ndash; LINK" title="Acesse de seu smartphone para enviar por WhatsApp">WhatsApp</a>
 
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=bbigelli&show_icons=true&theme=dracula&include_all_commits=false&count_private=true%22/%3E"><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbigelli&layout=compact&langs_count=7&theme=dracula%22/%3E">
 
