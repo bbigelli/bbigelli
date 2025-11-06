@@ -7,12 +7,16 @@ I am very interested in programming logic and am studying to be a Backend develo
 - 🌱 I’m currently learning [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Uvicorn](https://img.shields.io/badge/Uvicorn-5ccb93?logo=uvicorn&logoColor=white)](https://www.uvicorn.org/) [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1.4%2B-red?logo=python&logoColor=white)](https://www.sqlalchemy.org/) [![Pydantic](https://img.shields.io/badge/Pydantic-v2-green?logo=python&logoColor=white)](https://pydantic-docs.helpmanual.io/) [![JWT](https://img.shields.io/badge/JWT-Auth-black?logo=json-web-tokens&logoColor=white)](https://jwt.io/) [![Postman](https://img.shields.io/badge/Testado_com-Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=#F05032) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=#61DAFB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=#4169E1) 
 - 📖 I’m currently studying on: [![EBAC](https://img.shields.io/badge/EBAC-8A2BE2?logo=ebac&logoColor=white)](https://ebaconline.com.br/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbigelli&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bbigelli&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
 :phone: Get in touch: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bbigelli/)](https://www.linkedin.com/in/brunobigelli/)  <a href="https://wa.me/5511952302900" alt="WhatsApp" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/></a>  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub&logoColor=#181717)](https://github.com/bbigelli)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbigelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
