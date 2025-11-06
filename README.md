@@ -9,7 +9,7 @@ I am very interested in programming logic and am studying to be a Backend develo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbigelli&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bbigelli&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bbigelli&repo=bbigelli.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
